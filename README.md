@@ -1,6 +1,8 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rbukket9&theme=dark&show_icons=true)
+
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=rbukket9&theme=dark&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbukket9&theme=dark&show_icons=true)
+-->
 
 <!--
 **rbukket9/rbukket9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
